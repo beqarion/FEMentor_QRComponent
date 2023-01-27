@@ -45,10 +45,7 @@ p {
 .main {
   background-color: var(--clr-gray);
   display: grid;
-  grid-template-columns: 1fr;
-  grid-template-rows: 1fr auto;
   min-height: 100vh;
-  padding-bottom: 0.5rem;
 }
 
 .card {
