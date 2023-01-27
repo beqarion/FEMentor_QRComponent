@@ -45,12 +45,12 @@ Observing the example project screenshot, I realize that in card like element de
 Would like to know some css frameworks to add my toolbox.
 
 ### Useful resources
-
-I am taking John Smilga course, which I like alot (
+Though I have learned from many sources, now I'm taking John Smilga course, which I like alot (
 
 ![](./images/I_like_it_a_lot.gif)
 
-) So resets I used in css file, I learned from there. And lot of other things.
+)I recommend it. So resets I used in css file, I used from my mentioned course project.
+
 
 ## Author
 
