@@ -1,0 +1,75 @@
+/* 
+============
+Fonts
+============
+*/
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap");
+/* font-family: 'Outfit', sans-serif; */
+
+:root {
+  --ff-main: "Outfit", sans-serif;
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-primary-1: hsl(218, 44%, 22%);
+  --clr-primary-2: hsl(220, 15%, 55%);
+  --clr-gray: hsl(212, 45%, 89%);
+  --radius: 1rem;
+}
+
+/* 
+============
+Global Styles
+============
+*/
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: var(--ff-main);
+  color: var(--clr-primary-1);
+}
+img {
+  width: 100%;
+  display: block;
+}
+p {
+  color: var(--clr-primary-2);
+}
+
+
+
+/* Main Styles */
+.main {
+  background-color: var(--clr-gray);
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr auto;
+  min-height: 100vh;
+  padding-bottom: 0.5rem;
+}
+
+.card {
+  background: var(--clr-white);
+  max-width: 20rem;
+  margin: 0 auto;
+  place-self: center;
+  padding: 1rem;
+  border-radius: var(--radius);
+  text-align: center;
+}
+.card-img {
+  border-radius: 0.5rem;
+}
+.card-img-container {
+  margin-bottom: 1.5rem;
+}
+.card-info{
+  padding:0 0.5rem
+}
+.card-title,
+.card-text {
+  margin-bottom: 1.2rem;
+}
