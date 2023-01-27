@@ -15,7 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -49,7 +48,7 @@ Would like to know some css frameworks to add my toolbox.
 
 I am taking John Smilga course, which I like alot (
 
-![](./images/I_like_it_a_lot.gif.png)
+![](./images/I_like_it_a_lot.gif)
 
 ) So resets I used in css file, I learned from there. And lot of other things.
 
@@ -57,5 +56,3 @@ I am taking John Smilga course, which I like alot (
 
 - Website - [Bekar Shekiladze](https://beqarion.github.io/my-resume.github.io/)
 - Frontend Mentor - [@beqarion](https://www.frontendmentor.io/profile/beqarion)
-
-
