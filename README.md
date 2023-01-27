@@ -21,12 +21,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- [Solution](https://beqarion.github.io/FEMentor_QRComponent/)
-- [Live Site](https://github.com/beqarion/FEMentor_QRComponent)
+- [Solution](https://github.com/beqarion/FEMentor_QRComponent)
+- [Live Site](https://beqarion.github.io/FEMentor_QRComponent/)
 
 ## My process
 
@@ -49,7 +49,7 @@ Would like to know some css frameworks to add my toolbox.
 
 I am taking John Smilga course, which I like alot (
 
-![](./I_like_it_a_lot.gif.png)
+![](./images/I_like_it_a_lot.gif.png)
 
 ) So resets I used in css file, I learned from there. And lot of other things.
 
